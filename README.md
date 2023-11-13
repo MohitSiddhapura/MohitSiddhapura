@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohit-siddhapura" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" alt="www.linkedin.com/in/mohit-siddhapura" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/mohit-siddhapura" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
